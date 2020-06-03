@@ -17,8 +17,8 @@ import java.io.PrintWriter;
 public class CostServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String kmAsString = request.getParameter("km");
-        String kgAsString = request.getParameter("kg");
+        String kmAsString = request.getParameter("km.");
+        String kgAsString = request.getParameter("kg.");
 
         int km = Integer.parseInt(kmAsString);
         double kg = Double.parseDouble(kgAsString);
