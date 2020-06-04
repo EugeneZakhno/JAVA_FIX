@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//
 // https://www.youtube.com/watch?v=4-JusoVziXs&t=1527
 public class Program {
 	public static void main(String [] args) {
