@@ -12,7 +12,7 @@ class Program {
                         .build();
 
         cp.setAttribute(Attribute.REVERSE);
-		cp.println("Hello World!");
+		cp.println("Hello World ");
 		cp.clear();
 	}
 }
