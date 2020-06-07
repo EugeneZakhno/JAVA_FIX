@@ -8,10 +8,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * 07.03.2018
- * CostServlet
- *
- * @author Sidikov Marsel (First Software Engineering Platform)
  * @version v1.0
  */
 public class CostServlet extends HttpServlet {
